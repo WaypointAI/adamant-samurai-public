@@ -16,7 +16,7 @@ Create a conda environment called *samurai* and freeze to 3.7.9
 conda create -n samurai python=3.7.9
 ```
 
-### Login into the *samurai* environement
+### Login into the *samurai* environment
 
 ```
 conda activate samurai

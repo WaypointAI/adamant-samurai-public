@@ -4,6 +4,8 @@ please refer to https://raw.githubusercontent.com/waypointai/adamant-samurai/mai
 
 This repository is for Adamant AI² to load the requirements and launch Samurai 
 
+For any question contact git@waypointai.com
+
 ## Reproducing 
 To recreate the Samurai instance on your own computer, follow these instructions
 
